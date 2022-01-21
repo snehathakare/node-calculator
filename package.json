@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehathakare/node-calculator.git"
+  },
+  "author": "Sneha Thakare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehathakare/node-calculator/issues"
+  },
+  "homepage": "https://github.com/snehathakare/node-calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
